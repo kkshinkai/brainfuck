@@ -72,33 +72,15 @@ Dependencies
 [here]: https://code.visualstudio.com
 
 -   **Download the following extensions**
+    -   [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+        by Microsoft
+    -   [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools)
+        by Microsoft
+    -   [clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd)
+        by LLVM Extensions
+    -   [Clang-Tidy](https://marketplace.visualstudio.com/items?itemName=notskm.clang-tidy)
+        by notskm
 
-Name: C/C++
-Id: ms-vscode.cpptools
-Description: C/C++ IntelliSense, debugging, and code browsing.
-Version: 1.5.1
-Publisher: Microsoft
-VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
-
-Name: CMake Tools
-Id: ms-vscode.cmake-tools
-Description: Extended CMake support in Visual Studio Code
-Version: 1.7.3
-Publisher: Microsoft
-VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools
-
-Name: clangd
-Id: llvm-vs-code-extensions.vscode-clangd
-Description: C and C++ completion, navigation, and insights
-Version: 0.1.12
-Publisher: LLVM Extensions
-VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd
-
-Name: Clang-Tidy
-Id: notskm.clang-tidy
-Description: Integrates clang-tidy into VS Code
-Version: 0.5.1
-Publisher: notskm
-VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=notskm.clang-tidy
+-   **Run or debug.**
 
 </details>
