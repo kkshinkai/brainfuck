@@ -1,0 +1,15 @@
+{
+    "cmake.configureOnOpen": true,
+
+    "C_Cpp.default.compilerPath": "${env:HOME}/clang+llvm-12.0.0-x86_64-apple-darwin/bin/clang++",
+    "C_Cpp.clang_format_style": "file",
+    "C_Cpp.codeFolding": "Enabled",
+    "C_Cpp.default.cppStandard": "c++20",
+    "C_Cpp.default.cStandard": "c11",
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "C_Cpp.intelliSenseEngine": "Disabled",
+
+    "clangd.path": "${env:HOME}/clang+llvm-12.0.0-x86_64-apple-darwin/bin/clangd",
+
+    "clang-tidy.executable": "${env:HOME}/clang+llvm-12.0.0-x86_64-apple-darwin/bin/clang-tidy",
+}
